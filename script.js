@@ -36,7 +36,7 @@ function nameDisplayCheck() {
         rememberDiv.style.display = "none";
     } else {
   
-        h1.textContent = "Welcome to our website ";
+        h1.textContent = "MULEARN";
         personalGreeting.textContent =
             "Welcome to our website. We hope you have fun while you are here.";
         forgetDiv.style.display = "none";
