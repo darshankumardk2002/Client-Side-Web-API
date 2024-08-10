@@ -16,11 +16,11 @@ section{
   max-width: 900px;
   padding: 10px;
   border-radius: 10px;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  box-shadow: rgban(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 main {
-  padding: 20px;
+  padding: 30px;
 }
 
 header,
